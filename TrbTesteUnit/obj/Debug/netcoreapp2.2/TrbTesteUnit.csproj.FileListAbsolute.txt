@@ -1,0 +1,14 @@
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\bin\Debug\netcoreapp2.2\TrbTesteUnit.deps.json
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\bin\Debug\netcoreapp2.2\TrbTesteUnit.runtimeconfig.json
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\bin\Debug\netcoreapp2.2\TrbTesteUnit.runtimeconfig.dev.json
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\bin\Debug\netcoreapp2.2\TrbTesteUnit.dll
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\bin\Debug\netcoreapp2.2\TrbTesteUnit.pdb
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\obj\Debug\netcoreapp2.2\TrbTesteUnit.csprojAssemblyReference.cache
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\obj\Debug\netcoreapp2.2\TrbTesteUnit.csproj.CoreCompileInputs.cache
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\obj\Debug\netcoreapp2.2\TrbTesteUnit.RazorAssemblyInfo.cache
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\obj\Debug\netcoreapp2.2\TrbTesteUnit.RazorAssemblyInfo.cs
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\obj\Debug\netcoreapp2.2\TrbTesteUnit.AssemblyInfoInputs.cache
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\obj\Debug\netcoreapp2.2\TrbTesteUnit.AssemblyInfo.cs
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\obj\Debug\netcoreapp2.2\TrbTesteUnit.RazorTargetAssemblyInfo.cache
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\obj\Debug\netcoreapp2.2\TrbTesteUnit.dll
+C:\Projetos\TrbTesteUnit\TrbTesteUnit\obj\Debug\netcoreapp2.2\TrbTesteUnit.pdb

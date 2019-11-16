@@ -1,0 +1,17 @@
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\TrbTesteUnitTestes.deps.json
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\TrbTesteUnitTestes.runtimeconfig.json
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\TrbTesteUnitTestes.runtimeconfig.dev.json
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\TrbTesteUnitTestes.dll
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\TrbTesteUnitTestes.pdb
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\obj\Debug\netcoreapp2.2\TrbTesteUnitTestes.csprojAssemblyReference.cache
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\obj\Debug\netcoreapp2.2\TrbTesteUnitTestes.csproj.CoreCompileInputs.cache
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\obj\Debug\netcoreapp2.2\TrbTesteUnitTestes.AssemblyInfoInputs.cache
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\obj\Debug\netcoreapp2.2\TrbTesteUnitTestes.AssemblyInfo.cs
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\obj\Debug\netcoreapp2.2\TrbTesteUnitTestes.dll
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\obj\Debug\netcoreapp2.2\TrbTesteUnitTestes.pdb
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\TrbTesteUnit.dll
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\bin\Debug\netcoreapp2.2\TrbTesteUnit.pdb
+C:\Projetos\TrbTesteUnit\TrbTesteUnitTestes\obj\Debug\netcoreapp2.2\TrbTesteUnitTestes.csproj.CopyComplete

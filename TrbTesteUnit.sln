@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrbTesteUnit", "TrbTesteUnit\TrbTesteUnit.csproj", "{08C93F56-F082-404E-BCD0-A12367548F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrbTesteUnitTestes", "TrbTesteUnitTestes\TrbTesteUnitTestes.csproj", "{9D1596A9-1E4C-4AE1-BEB7-9A629E3F18B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C93F56-F082-404E-BCD0-A12367548F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C93F56-F082-404E-BCD0-A12367548F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C93F56-F082-404E-BCD0-A12367548F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C93F56-F082-404E-BCD0-A12367548F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1596A9-1E4C-4AE1-BEB7-9A629E3F18B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1596A9-1E4C-4AE1-BEB7-9A629E3F18B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1596A9-1E4C-4AE1-BEB7-9A629E3F18B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1596A9-1E4C-4AE1-BEB7-9A629E3F18B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD9ACCD-1D26-46FC-B366-A6F4F735F769}
+	EndGlobalSection
+EndGlobal
